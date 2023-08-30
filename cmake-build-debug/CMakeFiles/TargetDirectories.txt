@@ -1,0 +1,3 @@
+/Users/lihaha/CLionProjects/c++/lihahazi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lihaha/CLionProjects/c++/lihahazi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lihaha/CLionProjects/c++/lihahazi/cmake-build-debug/CMakeFiles/myFristC.dir
